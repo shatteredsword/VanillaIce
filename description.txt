@@ -1,0 +1,70 @@
+A small group of clientside mods and tweaks to enhance the vanilla Minecraft experience. Can be used on Vanilla Minecraft Servers!
+
+[b]Features:[/b]
+
+A full-featured minimap including waypoints, entity, and mob location (friendly only by default)
+Health bars on mobs
+Armor and weapon damage in HUD
+Potion effects, remaining arrows, and current item in HUD
+Quick heal and quick use keys
+An expanded Creative mode inventory
+Inventory sorting and auto-refilling hotbar
+Advanced 'pick-block' features (middle mouse click)
+Scroll to fill hotbar
+Expanded food tooltips including restoration and saturation values
+Searchable item and recipe list
+Optimized graphics and map rendering
+Forces view to third person when flying with the elytra
+Shows the current world time in your HUD if you are carrying a clock
+Minecraft makes a "clicking" noise when mods are done loading
+Viewable chunk borders
+Adds extra info to Just Enough Items
+Measure distances using a laser marker
+Viewable low light level areas (where mobs can spawn)
+
+[b]New Controls:[/b]
+tap 'Caps Lock' to start sprinting
+hold 'R' to [b]R[/b]estore your hunger with a food item in your hotbar
+press 'B' to open the macro key[b]B[/b]inding menu
+press 'C' to toggle the realtime [b]C[/b]lock
+press 'X' to sort your inventory
+press '-' to zoom out on your minimap
+press '=' to zoom in on your minimap
+hold 'M' to view a large version of the mini[b]M[/b]ap
+press 'P' to toggle viewing slime chunks on your minimap
+press 'N' to add a [b]N[/b]ew waypoint
+press 'L' to view your waypoints [b]L[/b]ist
+press 'K' to add a quic[b]K[/b] waypoint
+press 'U' with your cursor over an item in your inventory to see what recipes you can [b]U[/b]se it in
+press 'I' with your cursor over an item in your inventory to see the recipe for the [b]I[/b]tem
+hold 'Z' to [b]Z[/b]oom in your view temporarily
+press 'F7' to toggle viewing low light level areas
+press 'F9' to toggle viewing chunk borders
+press 'F12' to measure a distance using a laser marker
+press 'scrollwheel down' with your cursor over an item in your inventory to refill the stack in your hotbar
+press 'scrollwheel up' with your cursor over an item in your hotbar to place items from the stack back into your inventory
+Additional mouse tweaks [url=http://bit.ly/1XiDONC]Here[/url]
+
+[b]Mods Included:[/b]
+[url=http://bit.ly/1S1yg9G]BetterInventory[/url] 1.4.2.1 by mcgaming4k
+[url=http://bit.ly/1M9hJ3m]Better PvP Mod[/url] 1.8.7 by Xaero
+[url=http://bit.ly/22jx7fy]Custom Backgrounds[/url] 1.1 by Lumien
+[url=http://bit.ly/1TDktaN]Custom Main Menu[/url] 2.0 by Lumien
+[url=http://bit.ly/1SpoRoP]Default Options[/url] 4.0.5 by BlayTheNinth
+[url=http://bit.ly/1Uwzhtn]Ding[/url] v2 by iChun
+[url=http://bit.ly/1o4WXpW]Food Details[/url] 1.0.1 by Lothrazar
+[url=http://bit.ly/1ULvtmd]Item Scroller[/url] 0.2.3 by masa
+[url=http://bit.ly/234sADm]Inventory Tweaks[/url] 1.61-dev-45
+[url=http://bit.ly/1o4Y21a]Just Enough Items[/url] 3.2.10.185 by mezz
+[url=http://bit.ly/20d8dyx]Just Enough Resources[/url] 0.4.3 by Way2muchnoise
+[url=http://bit.ly/1NhY2kR]MacroKey Keybinding[/url] 1.0.4 by MattsOnMc
+[url=http://bit.ly/1oL0oCt]More Overlays[/url] 0.6 by feldim2425
+[url=http://bit.ly/1SBUpIp]Mouse Tweaks[/url] 2.6.2 by YaLTeR
+[url=http://bit.ly/1jOG2Di]Optifine[/url] 1.9.0_HD_U_B1 by sp614x
+[url=http://bit.ly/1MlPsXv]Pick Block Plus[/url] 1.1.0 by ChaosTheDude
+[url=http://bit.ly/1qz0OO8]Real Time Clock[/url]
+[url=http://bit.ly/209pzMI]Third Person Elytra[/url] 1.0.1 by pauljoda
+[url=http://bit.ly/209pSr6]Time HUD[/url] 5.0.2.12 by The_Fireplace
+
+[b]APIs:[/b]
+[url=http://bit.ly/forge-dl]Forge[/url] 12.16.0.1834 by Forge Development LLC

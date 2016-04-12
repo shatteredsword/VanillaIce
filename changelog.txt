@@ -1,0 +1,81 @@
+﻿v1.4
+added BetterInventory
+added Custom Backgrounds
+added Time HUD
+added Third Person Elytra
+added Custom Main Menu
+added Just Enough Resources
+added MacroKey Keybindings
+added Mouse Tweaks
+added More Overlays
+added Pick Block Plus
+added Real Time Clock
+changed itemscroller.cfg to prevent conflicts with Mouse Tweaks
+updated Forge to 12.16.0.1863
+updated Better PvP Mod to 1.8.7
+updated Just Enough Items to 3.2.10.185
+removed Chunk Edge Indicator
+
+v1.3.3
+updated Forge to 12.16.0.1853
+updated Just Enough Items to 3.2.8.182
+turned off Optifine lazy chunk loading due to map errors
+
+﻿v1.3.2
+Hotfix
+fixed Inventory Tweaks not downloading correctly. Hopefully it works this time.
+
+v1.3.1
+Hotfix
+I forgot to include the Inventory Tweaks jar file. Whoops!
+
+v1.3
+added Better PvP Mod to replace Durability Show, Neat, and Xaero's Minimap
+major reworking of config files
+added Inventory Tweaks
+changed InvTweaksTree.txt entries from camelCase to snake_case to match Minecraft block_id standard
+manually added new blocks from Minecraft 1.9 to InvTweaksTree.txt
+
+﻿v1.2.3
+updated Forge to 12.16.0.1834
+updated Just Enough Items to 3.2.5.178
+updated Xaero's Minimap to 1.8.5.3
+
+disabled spawn fuzzing in forge.cfg
+changed mob color icons on mini map
+moved xaerominimap.txt to config folder
+deleted DurabilityShow.cfg
+deleted itemscroller.cfg
+deleted forgeChunkLoading.cfg
+deleted jei.cfg
+deleted fireplace_update_checker.cfg
+
+﻿v1.2.2
+updated Item Scroller to 0.2.3
+
+v1.2.1
+updated Forge to 12.16.0.1816
+updated Just Enough Items to 3.1.2.172
+updated Neat to 1.2-5
+
+﻿v1.2
+New Features:
+minecraft will now make a "click" noise when the main menu is loaded (feel free to tab out while waiting for mods to load).
+
+Removed Features:
+removed CommandKeybindings (this mod is outdated and funtionality can mostly be substituted with in-game books)
+removed servers.dat, xaerowaypoints.txt, to prevent overwriting users' data
+
+Technical Updates:
+updated Forge to 12.16.0.1811
+updated Ding to v2 and changed sound settings (just realized this wasn't set up correctly)
+updated FoodDetails to 1.0.1
+updated itemscroller to 0.2.2
+updated Just Enough Items to 3.1.2.171
+updated Xaero's Minimap to 1.8.5.2
+added bin/forge-version.txt for easier internal version control
+added changelog.txt to keep track of version history
+
+v1.1
+>>+New Features
+Added Optifine 1.9.0_HD_U_B1 by sp614x
