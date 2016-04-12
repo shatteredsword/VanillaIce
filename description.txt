@@ -62,7 +62,7 @@ Additional mouse tweaks [url=http://bit.ly/1XiDONC]Here[/url]
 [url=http://bit.ly/1SBUpIp]Mouse Tweaks[/url] 2.6.2 by YaLTeR
 [url=http://bit.ly/1jOG2Di]Optifine[/url] 1.9.0_HD_U_B1 by sp614x
 [url=http://bit.ly/1MlPsXv]Pick Block Plus[/url] 1.1.0 by ChaosTheDude
-[url=http://bit.ly/1qz0OO8]Real Time Clock[/url]
+[url=http://bit.ly/1qz0OO8]Real Time Clock[/url] 0.6.1 by Xilef11
 [url=http://bit.ly/209pzMI]Third Person Elytra[/url] 1.0.1 by pauljoda
 [url=http://bit.ly/209pSr6]Time HUD[/url] 5.0.2.12 by The_Fireplace
 
