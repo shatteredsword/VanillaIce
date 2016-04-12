@@ -21,9 +21,6 @@
 [aroma1997/AromaBackup.cfg]/general/onShutdown
 [aroma1997/AromaBackup.cfg]/general/onStartup
 
-
-
-
 # BiblioCraft
 BiblioCraft.cfg/defaultbigbooktextscale/general
 BiblioCraft.cfg/"force fast render"/*
@@ -242,3 +239,4 @@ witchery.cfg/general/GUIOnLeft
 witchery.cfg/general/HUDShowVampireTargetBloodText
 witchery.cfg/general/MantrapOpacity
 witchery.cfg/general/Render3dGlintEffect
+
