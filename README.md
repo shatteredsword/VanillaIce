@@ -40,6 +40,7 @@ A small group of clientside mods and tweaks to enhance the vanilla Minecraft exp
 * press 'U' with your cursor over an item in your inventory to see what recipes you can **U**se it in
 * press 'I' with your cursor over an item in your inventory to see the recipe for the **I**tem
 * hold 'Z' to **Z**oom in your view temporarily
+* press 'O' on the inventory screen to toggle the NEI **O**verlay
 * press 'F7' to toggle viewing low light level areas
 * press 'F9' to toggle viewing chunk borders
 * press 'F12' to measure a distance using a laser marker

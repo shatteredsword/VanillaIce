@@ -38,6 +38,7 @@ press 'K' to add a quic[b]K[/b] waypoint
 press 'U' with your cursor over an item in your inventory to see what recipes you can [b]U[/b]se it in
 press 'I' with your cursor over an item in your inventory to see the recipe for the [b]I[/b]tem
 hold 'Z' to [b]Z[/b]oom in your view temporarily
+press 'O' on the inventory screen to toggle the NEI [b]O[/b]verlay
 press 'F7' to toggle viewing low light level areas
 press 'F9' to toggle viewing chunk borders
 press 'F12' to measure a distance using a laser marker

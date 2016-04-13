@@ -46,7 +46,7 @@ oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:true
-zoom:3
+zoom:0
 mapSize:3
 entityAmount:1
 chunkGrid:-7

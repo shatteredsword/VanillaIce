@@ -56,9 +56,10 @@ key_gui.xaero_quick_use_8:72
 key_gui.xaero_quick_use_9:73
 key_gui.xaero_better_pvp_settings:0
 key_invtweaks.key.sort:45
-key_key.jei.toggleOverlay:0
+key_key.jei.toggleOverlay:24
 key_key.jei.focusSearch:0
 key_key.jei.showRecipe:23
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
+key_key.openmacrokey.desc:48
 key_keys.realtimeclock.key.toggle_clock:46
