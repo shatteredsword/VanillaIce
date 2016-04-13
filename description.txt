@@ -1,7 +1,6 @@
 A small group of clientside mods and tweaks to enhance the vanilla Minecraft experience. Can be used on Vanilla Minecraft Servers!
 
 [b]Features:[/b]
-
 A full-featured minimap including waypoints, entity, and mob location (friendly only by default)
 Health bars on mobs
 Armor and weapon damage in HUD
