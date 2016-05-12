@@ -1,7 +1,7 @@
 A small group of clientside mods and tweaks to enhance the vanilla Minecraft experience. Can be used on Vanilla Minecraft Servers!
+[url=http://bit.ly/1YoHmyg]Old Versions Here[/url]
 
 [b]Features:[/b]
-
 A full-featured minimap including waypoints, entity, and mob location (friendly only by default)
 Health bars on mobs
 Armor and weapon damage in HUD
@@ -47,21 +47,21 @@ press 'scrollwheel up' with your cursor over an item in your hotbar to place ite
 Additional mouse tweaks [url=http://bit.ly/1XiDONC]Here[/url]
 
 [b]Mods Included:[/b]
-[url=http://bit.ly/1S1yg9G]BetterInventory[/url] 1.4.2.1 by mcgaming4k
-[url=http://bit.ly/1M9hJ3m]Better PvP Mod[/url] 1.8.7 by Xaero
+[url=http://bit.ly/1S1yg9G]BetterInventory[/url] 1.4.3.2 by mcgaming4k
+[url=http://bit.ly/1M9hJ3m]Better PvP Mod[/url] 1.9 by Xaero
 [url=http://bit.ly/22jx7fy]Custom Backgrounds[/url] 1.1 by Lumien
 [url=http://bit.ly/1TDktaN]Custom Main Menu[/url] 2.0 by Lumien
 [url=http://bit.ly/1SpoRoP]Default Options[/url] 4.0.5 by BlayTheNinth
 [url=http://bit.ly/1Uwzhtn]Ding[/url] v2 by iChun
 [url=http://bit.ly/1o4WXpW]Food Details[/url] 1.0.1 by Lothrazar
-[url=http://bit.ly/1ULvtmd]Item Scroller[/url] 0.2.3 by masa
-[url=http://bit.ly/234sADm]Inventory Tweaks[/url] 1.61-dev-45
-[url=http://bit.ly/1o4Y21a]Just Enough Items[/url] 3.2.10.185 by mezz
-[url=http://bit.ly/20d8dyx]Just Enough Resources[/url] 0.4.3 by Way2muchnoise
-[url=http://bit.ly/1NhY2kR]MacroKey Keybinding[/url] 1.0.4 by MattsOnMc
-[url=http://bit.ly/1oL0oCt]More Overlays[/url] 0.6 by feldim2425
+[url=http://bit.ly/1ULvtmd]Item Scroller[/url] 0.4.2 by masa
+[url=http://bit.ly/234sADm]Inventory Tweaks[/url] 1.61-dev-49
+[url=http://bit.ly/1o4Y21a]Just Enough Items[/url] 3.3.3.200 by mezz
+[url=http://bit.ly/20d8dyx]Just Enough Resources[/url] 0.4.5.27 by Way2muchnoise
+[url=http://bit.ly/1NhY2kR]MacroKey Keybindings[/url] 1.0.4.1 by MattsOnMc
+[url=http://bit.ly/1oL0oCt]More Overlays[/url] 1.3.1 by feldim2425
 [url=http://bit.ly/1SBUpIp]Mouse Tweaks[/url] 2.6.2 by YaLTeR
-[url=http://bit.ly/1jOG2Di]Optifine[/url] 1.9.0_HD_U_B1 by sp614x
+[url=http://bit.ly/1jOG2Di]Optifine[/url] 1.9.0 HD U B2 by sp614x
 [url=http://bit.ly/1MlPsXv]Pick Block Plus[/url] 1.1.0 by ChaosTheDude
 [url=http://bit.ly/1qz0OO8]Real Time Clock[/url] 0.6.1 by Xilef11
 [url=http://bit.ly/209pzMI]Third Person Elytra[/url] 1.0.1 by pauljoda
