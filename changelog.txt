@@ -1,4 +1,4 @@
-﻿v1.4.1
+v1.4.1
 updated BetterInvetory to 1.4.3.2
 updated Forge to 12.16.1.1901
 updated Better PvP Mod to 1.9
